@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <readme>
+    <pl>8331e1ee1f842854396774077435c6011f11a5a24afc860226820b98901a9064</pl>
+  </readme>
+  <license>35c9efafe16721448ce885e3db0edb455686414d71217cbbe39553ebe20512db</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1,2,3,4,5,6,7,18"/>
+    </notes>
+  </exercise>
+</level>
